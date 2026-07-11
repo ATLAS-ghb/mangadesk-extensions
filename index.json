@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Mangakakalot",
+    "pkg": "com.mangadesk.extension.en.mangakakalot",
+    "version": "1.0.0",
+    "lang": "en",
+    "file": "mangakakalot.jar",
+    "nsfw": 0
+  }
+]

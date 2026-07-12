@@ -1,11 +1,11 @@
 [
   {
-    "name": "Mangakakalot",
-    "pkg": "com.mangadesk.extension.en.mangakakalot",
-    "className": "com.mangadesk.extension.en.mangakakalot.MangakakalotExtension",
+    "name": "Sample Keiyoushi Site",
+    "pkg": "com.myextensions.sample",
+    "className": "com.myextensions.sample.SampleExtension",
     "version": "1.0.0",
     "lang": "en",
-    "file": "mangakakalot.jar",
+    "file": "sample-extension.jar",
     "nsfw": 0
   }
 ]
